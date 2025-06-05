@@ -1,6 +1,8 @@
 # .github/workflows/ci.yml
 name: Node.js CI
 
+runs-on: self-hosted
+
 on:
   push:
     branches: [ main ]

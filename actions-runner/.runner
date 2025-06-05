@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LAPTOP-M1LHR8AH",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus25.actions.githubusercontent.com/wqdZAPEsOxQcSioM9VZ66Mtnmqr3zG808SomGFjUe2M5H4Ew44/",
+  "gitHubUrl": "https://github.com/AziiBoRn/atelier-ci-cd-node",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
